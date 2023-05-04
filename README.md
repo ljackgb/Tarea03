@@ -5,3 +5,5 @@ Integrantes:
 + Lechuga Licona Fernanda
 + Martínez Fuentes Raúl
 + Gómez Caamaño Yunuen Itzel
+
+Nota: Fer, para que nuestro programa corra debes tener la extensión TOML de Python :)

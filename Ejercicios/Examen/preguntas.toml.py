@@ -1,6 +1,19 @@
 #Creamos nuestro clase que almacene toda nuestras preguntas, esto con el motivo de dar orden y limpieza 
 #Haremos uso de una funcion de los diccionarios que precisamente facilita crear un banco de preguntas, en especial de las listas TOML
 #ya que estas brindan una manera sencilla de poder crear el banco de manera muy intuitiva
+
+"""
+Bueno, en principio no, no crearon niguna clase que almacena preguntas.
+No crearon ninguna clase Pregunta, ni BancoPreguntas, ni Examen.
+
+Al menos aquí no se ven los diccionarios como se vieron en clase.
+No vimos listas TOML, no es algo necesario y menos en el nivel que estamos. Primero debemos saber bien cómo funcionan
+las estructuras nativas de python y aprender a trabajar bien con ello porque son las bases de cualquier otras funciones, clases, estructuras,
+módulos que estén construidos en python.
+
+No es necesario usar eso, al menos no ahora.
+"""
+
 [[preguntas]]
 pregunta = "Qué es la sintaxis"
 respuesta = "Descripción del conjunto de cadenas de símbolos que serán considerados programas válidos."
